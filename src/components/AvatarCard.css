@@ -1,0 +1,34 @@
+.card {
+    display: flex;
+
+}
+
+.img {
+    border-radius: 30px;
+}
+
+.avatar {
+    width: 35px;
+    height: 30px;
+    padding: 10px;
+    margin-top: 15px;
+
+}
+
+.share {
+    width: 10px;
+    height: 20px;
+}
+
+.info {
+    margin: 0 20px;
+}
+
+.name {
+    color: hsl(217, 19%, 35%);
+    font-weight: bold;
+}
+
+.date {
+    color: hsl(212, 23%, 69%);
+}

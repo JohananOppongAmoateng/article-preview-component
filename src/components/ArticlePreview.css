@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    /* margin: auto; */
+    /* justify-content: center; */
+    align-content: center;
+    margin:150px 250px;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 20px;
+    background-color: hsl(210, 46%, 95%);
+}
+.share-container{
+    border: 20px transparent;
+    background-color:hsl(210, 46%, 95%);
+    width: fit-content;
+    height: fit-content;
+    margin: 10px 30px;
+    padding:10px;
+}
+.drawers{
+    width: 300px;
+    /* height:200px; */
+}
+
+.title{
+    color: hsl(217, 19%, 35%);;
+    font-weight: 700;
+}
+
+.text{
+    color: hsl(214, 17%, 51%);
+}
+
+.preview{
+    font-size: 13px;
+    /* border: 1px solid transparent; */
+    width: 300px;
+    padding:20px 50px;
+    /* height: 200px; */
+    
+}
+
